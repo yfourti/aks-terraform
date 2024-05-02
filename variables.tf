@@ -22,6 +22,3 @@ variable "aks_service_principal_app_id" {
   default = "dc31ff3c-5237-4374-9ddb-12d69c2745c6"
 }
 
-# variable "aks_service_principal_client_secret" {
-#   default = "Wpz8Q~IN42AxWbjoGKbEg3MRHHsywNDjnHw8ja_A"
-# }
