@@ -16,7 +16,7 @@ provider "azurerm" {
 }
 
 # Import the Azure Resource Group
-resource "azurerm_resource_group" "k8s" {
-  name     = "1-e58bc4e2-playground-sandbox"
-  location =  "West US"
-}
+#resource "azurerm_resource_group" "k8s" {
+#  name     = "1-e58bc4e2-playground-sandbox"
+#  location =  "West US"
+#}
